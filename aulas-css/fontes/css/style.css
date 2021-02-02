@@ -1,0 +1,12 @@
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+}
+
+#parag {
+    font-family: Comic, sans-serif;
+    font-style: italic;
+    font-size: 1.5em;  /*aqui ele pega o tamanho do pai ou seja vai variar*/
+    font-weight: 600;  /*negrito que depende da familia da fonte*/
+
+}

@@ -1,0 +1,43 @@
+.parag {
+    color: green;
+}
+
+.title {
+    color: dodgerblue;
+}
+
+.title2 {
+   color: rgb(0,100,200); /* cores em rgb que siginifica (red, green, blue) onde podemos ir mudando os valores teremos cores personalizadas*/
+}
+
+.title3 {
+    color: rgba(0,100,255,0.2);  /*aqui o ultimo numero vai de 0 a 1 sendo 0. algum valor vai dando transparencia*/
+}
+
+.title4 {
+    color: #ffff00;  /*aqui vale o mesmo caso do rgb ou seja as duas primeiras casas representa o red os (outros dois ff) green (os ultimos dois 00) blue*/
+}
+
+.subTitle {
+    color: DarkSlateGray;
+    font-size: 20px;
+}
+
+#nowOrd {
+    color: brown;
+}
+
+#order {
+    color: brown;
+}
+
+#tab {
+    color: black;
+    font-size: 18px;
+}
+
+.tab {
+    font-size: 15px;
+    color: brown;
+}
+

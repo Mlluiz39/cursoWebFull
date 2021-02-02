@@ -1,0 +1,22 @@
+p {
+    color: red;
+    text-indent: 50px;
+    text-align: justify;
+    text-decoration: underline overline line-through;
+}
+
+a {
+    text-decoration: none;
+    font-size: 26px;
+}
+
+#parag {
+    color: blue;
+    line-height: 200%;
+    letter-spacing: 10px;
+    /*espaço entre as letras*/
+    word-spacing: 20px;
+    /*separa as palavras*/
+    text-shadow: 2px 2px #bbbbbb;
+    /*sombra no texto*/
+}

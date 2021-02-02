@@ -1,0 +1,14 @@
+h1 {
+    font-family: Pacifico, Commic, sans-serif;
+    color: rgba(25, 25, 235, 0.678);
+}
+
+p {
+    font-family: myFont, Commic, sans-serif;
+    font-size: 22px;
+    color: rgb(29, 134, 129);
+}
+@font-face {
+    font-family: myFont;
+    src: url(../fonts/san-diego-font.ttf);
+}  /*usando fontes baixadas no formato ttf*/

@@ -1,0 +1,92 @@
+h1 {
+    color: indigo;
+    text-align: center;
+}
+
+.borda {
+    text-align: center;
+    border-width: 10px;
+    border-style: solid;
+    border-color: red;
+    margin: 15px;
+    padding: 15px;
+    font-size: 25px;
+}
+
+.borda2 {
+    border-width: 5px;
+    border-style: dashed;
+    border-color:green;
+}
+
+.borda3 {
+    border-width: 5px;
+    border-style: dotted;
+    border-color: blue;
+}
+
+.borda4 {
+    border-width: 5px;
+    border-style: double;
+    border-color: aqua;
+}
+
+.borda5 {
+    border-width: 5px;
+    border-style: groove;
+    border-color: brown;
+}
+
+p.dotted {
+    border-style: dotted;
+}
+
+p.dashed {
+    border-style: dashed;
+}
+
+p.solid {
+    border-style: solid;
+}
+
+p.double {
+    border-style: double;
+}
+
+p.groove {
+    border-style: groove;
+}
+
+p.ridge {
+    border-style: ridge;
+}
+
+p.inset {
+    border-style: inset;
+}
+
+p.outset {
+    border-style: outset;
+}
+
+p.none {
+    border-style: none;
+}
+
+p.hidden {
+    border-style: hidden;
+}
+
+p.mix {
+    border-style: dotted dashed solid double;
+}
+
+.radius {
+    border-width: 5px;
+    border-style: double;
+    border-color: hotpink;
+    border-radius: 50px;
+    
+}
+
+.bordes {border: 5px solid grey;}

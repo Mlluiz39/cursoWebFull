@@ -1,0 +1,31 @@
+.parag {
+    color: rgb(21, 255, 0);
+}
+
+.title {
+    color: rgb(255, 0, 140);
+}
+
+.subTitle {
+    color: blueviolet;
+    font-size: 20px;
+}
+
+#nowOrd {
+    color: brown;
+}
+
+#order {
+    color: brown;
+}
+
+#tab {
+    color: black;
+    font-size: 18px;
+}
+
+.tab {
+    font-size: 15px;
+    color: brown;
+}
+

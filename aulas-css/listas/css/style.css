@@ -1,0 +1,30 @@
+ul {
+    list-style-image: url(../img/item22.png);
+    list-style-position: inside;
+    margin: 0;
+    padding: 10px;
+    background-color: #f3e;
+    border-radius: 8px;
+}
+
+ol {
+    list-style-type: upper-roman;
+    list-style-position: inside;
+    margin: 0;
+    padding: 10px;
+    background-color: #59e;
+    border-radius: 8px;
+}
+
+li {
+    border: 1px solid;
+    background-color: yellow;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 8px;
+}
+
+a {
+    text-decoration: none;
+    cursor: progress;
+}

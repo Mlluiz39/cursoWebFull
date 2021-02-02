@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: red;
+    padding: 5px;
+    border: 5px solid blue;
+    margin: 10px;
+}
+
+
+.conteudo {
+    background-color: #ddd;
+    outline: 5px solid green;  /*aqui ele tira toda a borda ou seja fica todo oe spaço prenchido*/
+    margin: 5px;
+    padding: 5px;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border: 10px solid blue;
+    padding: 10px;
+    /*aqui tem que ser feito uma conta para que os elementos fiquem to tamanho que necessita, pois será somado sempre a nova propriedade*/
+    box-sizing: border-box;
+    /* Utilizando a propriedade acima forçamos os elementos a ficarem ro tamanho escolhido*/
+}
+
+.square2 {
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+
+}
+
+
+   
