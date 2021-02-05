@@ -24,7 +24,7 @@ for (var nome in nomes) {
   var nota1 = notasA[nome];
   var nota2 = notasB[nome];
 
-  var m = calculaMedia(nota1, nota2);
+  var media = calculaMedia(nota1, nota2);
 
   console.log(
     nomes[nome] +
@@ -33,8 +33,8 @@ for (var nome in nomes) {
       " e a 2º nota é " +
       nota2 +
       " com média " +
-      m +
+      media +
       " = " +
-      aprovadoOuNao(m)
+      aprovadoOuNao(media)
   );
 }
