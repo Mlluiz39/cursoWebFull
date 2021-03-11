@@ -50,3 +50,23 @@ var b = 'hd externo';
 var b = a;
 
 console.log(b);
+
+var nome = 'Marcelo'
+var idade = 41
+var possuiFaculdade = true
+
+console.log(nome, idade, possuiFaculdade)
+
+var preco = 20
+var totalComprado = 5
+var totalPreco = totalComprado * preco
+
+console.log(totalPreco)
+
+var sobrenome = 'Luiz', 
+    ultimoNome ='Pereira'
+
+console.log(nome, sobrenome, ultimoNome)
+
+var semDefinir;  // variavel undefined
+console.log(semDefinir)
